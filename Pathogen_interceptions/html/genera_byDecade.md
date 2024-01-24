@@ -1,0 +1,777 @@
+# Genera by decade
+
+|                   | 1910| 1920| 1940| 1950| 1960| 1970|
+|:------------------|----:|----:|----:|----:|----:|----:|
+|                   |    0|    0|    0|    1|    0|    3|
+|Achorella          |    0|    0|    0|    1|    0|    0|
+|Agaricus           |   24|    0|    0|    0|    0|    0|
+|Alternaria         |   12|    1|    3|   32|    8|    1|
+|Antennatula        |    0|    0|    0|    2|    1|    0|
+|Antrodiopsis       |    0|    0|    1|    0|    0|    0|
+|Apiosporina        |    0|    0|    0|    1|    0|    0|
+|Aplosporella       |    0|    0|    0|    1|    0|    0|
+|Ascochyta          |    2|    0|    2|    7|   40|   21|
+|Aspergillus        |   28|   11|    0|    1|    0|    0|
+|Asperisporium      |    0|    0|    0|    5|    0|    0|
+|Asterina           |    0|    0|    0|    1|    0|    0|
+|Asterinella        |    0|    0|    0|    1|    0|    0|
+|Asteromella        |    0|    0|    0|    2|    0|    0|
+|Athelia            |    4|    0|    0|    0|    0|    0|
+|Aureobasidium      |    1|    0|    1|    1|    0|    0|
+|Bipolaris          |    0|    0|    2|    3|    5|    0|
+|Boeremia           |    0|    0|    0|    0|    1|    0|
+|Botryosphaeria     |    0|    1|    0|    1|    2|    0|
+|Brunneosphaerella  |    0|    0|    0|    2|    6|    4|
+|Caldariomyces      |    1|    0|    0|    0|    0|    0|
+|Caliciopsis        |    0|    0|    0|    0|    0|    2|
+|Camarosporium      |    0|    0|    0|    1|    4|    1|
+|Camposporium       |    0|    0|    0|    0|    1|    0|
+|Ceratocarpia       |    1|    0|    0|    0|    0|    0|
+|Cercospora         |    1|    0|    3|   20|   55|   42|
+|Cercosporella      |    0|    0|    0|    1|    2|    0|
+|Cerebella          |    0|    1|    0|    0|    0|    0|
+|Chaetothyrina      |    0|    0|    0|    0|   15|   31|
+|Chuppomyces        |    0|    0|    3|    7|    0|    0|
+|Cladosporium       |   11|   23|    0|   19|    5|    0|
+|Clarohilum         |    0|    0|    0|    1|    0|    0|
+|Cochliobolus       |    0|    0|    0|    3|    0|    0|
+|Coleroa            |    0|    0|    0|    2|    7|    4|
+|Coniosporium       |    2|    2|    1|    2|    0|    0|
+|Coniothyrina       |    0|    0|    0|    1|    1|    0|
+|Coniothyrium       |    6|    0|    0|   21|   10|    5|
+|Coremium           |    1|    1|    0|    0|    0|    0|
+|Corticium          |    0|    0|    0|    1|    0|    0|
+|Corynespora        |    0|    0|    1|    8|    4|    0|
+|Corynetes          |    0|    0|    1|    0|    0|    0|
+|Curvularia         |    0|    1|    2|   10|   11|    1|
+|Davidiella         |    1|    0|    0|    3|    6|    0|
+|Delphinella        |    0|    0|    0|    0|    0|    4|
+|Dendryphion        |    0|    0|    0|    2|    0|    0|
+|Dichotomophthora   |    0|    0|    0|    0|    1|    0|
+|Dictyoploca        |    0|    0|    0|    0|    0|    2|
+|Didymella          |    0|    0|    3|   18|    4|    0|
+|Diplodia           |   24|   10|    1|   26|   19|    9|
+|Doassansia         |    0|    0|    0|    1|    0|    0|
+|Dothidella         |    0|    0|    0|    0|    2|    0|
+|Dothiora           |    0|    0|    1|    6|   17|   24|
+|Dothiorella        |    5|    0|    0|    0|    6|    2|
+|Eballistra         |    0|    0|    1|    9|    0|    0|
+|Echidnodes         |    0|    0|    0|    1|    1|    0|
+|Elsinoe            |    0|    4|   16|  136|  240|   34|
+|Entyloma           |    0|    0|    0|    1|    0|    0|
+|Epicoccum          |    1|    0|    1|   13|    3|    0|
+|Eurotium           |    2|    0|    0|    0|    0|    0|
+|Exobasidium        |   42|    3|    0|    4|    0|    0|
+|Exserohilum        |    0|    0|    1|    0|    0|    0|
+|Fusicladium        |    0|    0|    1|    7|    5|   15|
+|Fusicoccum         |    2|    0|    0|    0|    1|    0|
+|Fusoidiella        |    0|    0|    1|    1|    0|    0|
+|Ganoderma          |    0|    0|    0|    0|    1|    0|
+|Graphiola          |    2|    0|    0|    0|    9|    1|
+|Griggsia           |    0|    0|    0|    0|    1|    0|
+|Guignardia         |    0|    0|    0|    2|    3|    1|
+|Helminthosporium   |    7|    2|    0|    2|    0|    0|
+|Hendersonia        |    0|    0|    1|    1|    0|    0|
+|Herpothallon       |    0|    0|    0|    1|    0|    0|
+|Heterophoma        |    0|    0|    0|    1|    0|    0|
+|Heterosporium      |    0|    0|    1|    5|    5|    1|
+|Hobsonia           |    0|    0|    0|    0|    1|    0|
+|Hormiscium         |    2|    0|    0|    0|    0|    0|
+|Jamesdicksonia     |    0|    0|    0|    2|    0|    0|
+|Juncaceicola       |    0|    0|    0|    1|    0|    0|
+|Kabatiella         |    1|    0|    0|    0|    0|    0|
+|Karstenula         |    0|    0|    0|    0|    1|    0|
+|Kellermania        |    0|    0|    0|    9|    0|    1|
+|Lasiodiplodia      |   33|   13|    6|   18|    0|    0|
+|Lembosia           |    0|    0|    0|    2|    1|    0|
+|Leptosphaeria      |    1|    0|    0|   14|   28|   15|
+|Leptosphaerulina   |    0|    0|    0|    0|    1|    0|
+|Leptothyrium       |    0|    0|    0|    1|    0|    0|
+|Macrophoma         |    5|    0|    0|   16|    6|    9|
+|Macrophomina       |    0|    1|    1|   14|    0|    0|
+|Macrosporium       |    3|    1|    0|    0|    0|    0|
+|Maublancia         |    0|    0|    0|    1|    0|    0|
+|Melanomma          |    0|    0|    0|    0|    3|    0|
+|Meliolina          |    0|    0|    0|    0|    1|    0|
+|Metasphaeria       |    0|    0|    0|    1|    1|    0|
+|Microdiplodia      |    0|    0|    0|    2|    1|    0|
+|Micropeltella      |    0|    0|    0|    0|    1|    0|
+|Micropeltis        |    0|    0|    0|    6|    2|    0|
+|Microsphaeropsis   |    0|    0|    2|   10|    0|    0|
+|Microstroma        |    0|    0|    0|    1|    0|    0|
+|Microthyrium       |    0|    0|    0|    1|    0|    0|
+|Miyabella          |    0|    0|    0|    0|    1|    0|
+|Montagnina         |    0|    0|    1|    0|    0|    0|
+|Montagnula         |    0|    0|    0|    1|    1|    0|
+|Muyocopron         |    0|    0|    0|    1|    3|    0|
+|Mycena             |    0|    0|    2|    9|    0|    0|
+|Mycosphaerella     |    2|    2|   20|   94|   72|   79|
+|Myriangium         |    0|    0|    0|    2|    0|    0|
+|Mytilinidion       |    0|    0|    0|    1|    0|    0|
+|Naemosphaera       |    1|    0|    0|    0|    0|    0|
+|Neofusicoccum      |    0|    0|    1|    5|    0|    0|
+|Neosetophoma       |    0|    0|    0|    0|    1|    0|
+|Nothopassalora     |    0|    0|    0|    1|    0|    0|
+|Odontia            |    1|    0|    0|    0|    0|    0|
+|Paraconiothyrium   |    2|    0|    0|    0|    0|    0|
+|Paraphaeosphaeria  |    0|    0|    0|    1|    0|    0|
+|Parastagonospora   |    0|    0|    0|    5|    0|    0|
+|Parodiella         |    0|    0|    0|    1|    0|    0|
+|Passalora          |    5|    0|    0|    5|   10|    0|
+|Penicillium        |   25|    5|    0|    0|    0|    0|
+|Peniophora         |    0|    0|    0|    1|    0|    0|
+|Periconia          |    0|    0|    0|    1|    1|    0|
+|Peyronellaea       |    0|    0|    1|    8|    0|    0|
+|Phaeoseptoria      |    0|    0|    0|    0|    6|    7|
+|Phaeosphaerella    |    0|    0|    0|    0|    2|    0|
+|Phaeosphaeria      |    0|    0|    0|    4|    6|    0|
+|Phaeosphaeriopsis  |    0|    0|    1|    9|    3|    2|
+|Phloeospora        |    0|    0|    0|    0|    2|    0|
+|Phoma              |   25|    0|    0|   15|   19|    9|
+|Phomatodes         |    0|    0|    0|    2|    0|    0|
+|Phyllosticta       |   22|    2|   23|  207|  425|  138|
+|Phyllostictina     |    0|    0|    0|    0|    7|   11|
+|Physoderma         |    0|    0|    0|    1|    0|    0|
+|Planistromella     |    0|    0|    0|    8|   46|   25|
+|Pleiochaeta        |    0|    0|    0|    0|    0|    1|
+|Pleospora          |    1|    0|    1|    3|    2|    0|
+|Pluripassalora     |    0|    0|    0|    0|    4|    0|
+|Polythrincium      |    1|    1|    0|    2|    0|    0|
+|Praetumpfia        |    0|    0|    0|    0|    1|    0|
+|Pseudocercospora   |    0|    0|    3|   48|   55|   14|
+|Pseudoepicoccum    |    0|    0|    0|    2|    0|    0|
+|Pseudoseptoria     |    0|    0|    0|    2|    1|    0|
+|Pyrenobotrys       |    0|    0|    0|    1|    0|    0|
+|Pyrenochaeta       |    2|    0|    1|    3|   10|    8|
+|Pyrenophora        |    0|    0|    0|    2|    1|    0|
+|Ramularia          |    3|    2|    1|   13|    8|    0|
+|Rhabdospora        |    3|    0|    0|    0|    1|    0|
+|Rhizoctonia        |    7|    6|    0|    1|    0|    0|
+|Rhytidhysteron     |    0|    0|    0|    1|    0|    0|
+|Rosisphaerella     |    0|    0|    0|    2|    0|    0|
+|Ruptoseptoria      |    0|    0|    0|    1|    0|    0|
+|Schiffnerula       |    0|    0|    0|    0|    1|    0|
+|Schizophyllum      |    1|    0|    0|    4|    0|    0|
+|Schizothyrium      |    0|    0|    4|    7|    0|    0|
+|Scirrhia           |    0|    0|    0|    2|    6|    1|
+|Sclerostagonospora |    1|    0|    0|    3|    0|    0|
+|Sclerotium         |    0|    3|    0|    0|    0|    0|
+|Scolecostigmina    |    0|    0|    0|    2|    6|    0|
+|Septocylindrium    |    0|    0|    0|    1|    0|    0|
+|Septogloeum        |    2|    0|    0|    0|    3|    0|
+|Septonema          |    0|    0|    0|    5|    0|    0|
+|Septoria           |    3|    2|    7|  134|  129|   92|
+|Septoriella        |    0|    0|    0|    0|    0|    1|
+|Setophoma          |    0|    0|    0|    1|    0|    0|
+|Seuratia           |    0|    0|    0|    1|    0|    0|
+|Speira             |    0|    0|    0|    1|    0|    0|
+|Sphaeropsis        |    0|    0|    0|    1|    1|    0|
+|Sphaerulina        |    0|    0|    5|   14|    3|    0|
+|Sporotrichum       |    5|    0|    0|    0|    0|    0|
+|Stagonospora       |    0|    0|    0|    0|    0|    1|
+|Stagonosporopsis   |    0|    0|    0|    1|    1|    0|
+|Stemphylium        |    0|    0|    5|   10|    1|    0|
+|Sterigmatocystis   |    1|    1|    0|    0|    0|    0|
+|Stigmina           |    0|    0|    1|    9|    0|    0|
+|Stomatogene        |    0|    0|    0|    3|    3|    0|
+|Stomiopeltis       |    0|    0|    0|    0|    1|    0|
+|Subplenodomus      |    0|    0|    0|    1|    0|    0|
+|Sydowia            |    0|    0|    0|    1|    2|    2|
+|Synchytrium        |    2|    0|    0|    0|    0|    0|
+|Thanatephorus      |    0|    0|    0|    1|    0|    0|
+|Thyridaria         |    1|    0|    0|    0|    0|    0|
+|Tilletia           |    2|    2|    0|    7|   29|   18|
+|Torula             |    1|    0|    0|    0|    0|    0|
+|Trametes           |    0|    0|    1|    0|    0|    0|
+|Tryblidiella       |    0|    0|    1|    0|    0|    0|
+|Trypethelium       |    0|    0|    0|    1|    0|    0|
+|Typhula            |    0|    0|    0|    0|    1|    0|
+|Venturia           |    1|    1|    1|    1|    1|    1|
+|Westerdykella      |    0|    0|    0|    0|    1|    0|
+
+
+
+# Species by decade
+
+
+|                                   | 1910| 1920| 1940| 1950| 1960| 1970|
+|:----------------------------------|----:|----:|----:|----:|----:|----:|
+|                                   |    0|    0|    0|    1|    0|    3|
+|Achorella attaleae                 |    0|    0|    0|    1|    0|    0|
+|Alternaria capsici-annui           |    0|    0|    0|    0|    1|    0|
+|Alternaria celosiicola             |    0|    0|    0|    0|    1|    0|
+|Alternaria citri                   |    0|    0|    1|   13|    0|    0|
+|Alternaria consortialis            |    0|    0|    1|    3|    0|    0|
+|Alternaria cucumerina              |    0|    0|    0|    1|    0|    0|
+|Alternaria dianthi                 |    0|    0|    1|    8|    1|    0|
+|Alternaria dianthicola             |    0|    0|    0|    1|    1|    0|
+|Alternaria gomphrenae              |    0|    0|    0|    1|    0|    0|
+|Alternaria porri                   |    0|    0|    0|    3|    0|    0|
+|Alternaria radicina                |    0|    0|    0|    1|    0|    0|
+|Alternaria raphani                 |    0|    0|    0|    1|    0|    0|
+|Alternaria zinniae                 |    0|    0|    0|    0|    4|    0|
+|Antennatula pinophila              |    0|    0|    0|    2|    1|    0|
+|Antrodiopsis oleracea              |    0|    0|    1|    0|    0|    0|
+|Apiosporina morbosa                |    0|    0|    0|    1|    0|    0|
+|Aplosporella dracaenarum           |    0|    0|    0|    1|    0|    0|
+|Ascochyta armoraciae               |    0|    0|    0|    0|    1|    0|
+|Ascochyta begoniae                 |    0|    0|    0|    0|    1|    0|
+|Ascochyta boltshauseri             |    0|    0|    0|    1|    1|    0|
+|Ascochyta brachypodii              |    0|    0|    0|    0|    1|    0|
+|Ascochyta buxina                   |    0|    0|    0|    0|    1|    1|
+|Ascochyta conorum                  |    0|    0|    0|    1|    0|    0|
+|Ascochyta cynarae                  |    0|    0|    0|    0|    1|    0|
+|Ascochyta cytisi                   |    0|    0|    2|    3|   12|    1|
+|Ascochyta graminicola              |    0|    0|    0|    1|    1|    0|
+|Ascochyta lupinicola               |    0|    0|    0|    0|    0|    1|
+|Ascochyta miurae                   |    0|    0|    0|    0|    0|    1|
+|Ascochyta passiflorae              |    0|    0|    0|    0|   20|   13|
+|Ascochyta rubi                     |    0|    0|    0|    0|    1|    0|
+|Ascochyta scabiosae                |    0|    0|    0|    1|    0|    0|
+|Ascochyta sorghi                   |    0|    0|    0|    0|    0|    2|
+|Aspergillus flavus                 |    8|    3|    0|    0|    0|    0|
+|Aspergillus manginii               |    0|    0|    0|    1|    0|    0|
+|Aspergillus niger                  |    7|    2|    0|    0|    0|    0|
+|Aspergillus ochraceus              |    6|    0|    0|    0|    0|    0|
+|Aspergillus repens                 |    0|    6|    0|    0|    0|    0|
+|Asperisporium caricae              |    0|    0|    0|    5|    0|    0|
+|Asterina pulchella                 |    0|    0|    0|    1|    0|    0|
+|Asterinella epidendri              |    0|    0|    0|    1|    0|    0|
+|Asteromella kalmicola              |    0|    0|    0|    2|    0|    0|
+|Athelia rolfsii                    |    4|    0|    0|    0|    0|    0|
+|Aureobasidium apocryptum           |    1|    0|    0|    0|    0|    0|
+|Aureobasidium pullulans            |    0|    0|    1|    1|    0|    0|
+|Bipolaris cynodontis               |    0|    0|    0|    0|    3|    0|
+|Bipolaris oryzae                   |    0|    0|    2|    3|    0|    0|
+|Bipolaris sacchari                 |    0|    0|    0|    0|    2|    0|
+|Boeremia exigua                    |    0|    0|    0|    0|    1|    0|
+|Botryosphaeria berengeriana        |    0|    0|    0|    1|    2|    0|
+|Botryosphaeria stevensii           |    0|    1|    0|    0|    0|    0|
+|Brunneosphaerella protearum        |    0|    0|    0|    2|    6|    4|
+|Caldariomyces fumago               |    1|    0|    0|    0|    0|    0|
+|Caliciopsis maxima                 |    0|    0|    0|    0|    0|    2|
+|Camarosporium citri                |    0|    0|    0|    1|    0|    0|
+|Camarosporium dalmaticum           |    0|    0|    0|    0|    1|    0|
+|Camarosporium ellipticum           |    0|    0|    0|    0|    1|    0|
+|Camarosporium orchidicola          |    0|    0|    0|    0|    1|    0|
+|Camarosporium patagonicum          |    0|    0|    0|    0|    1|    1|
+|Camposporium antennatum            |    0|    0|    0|    0|    1|    0|
+|Ceratocarpia wrightii              |    1|    0|    0|    0|    0|    0|
+|Cercospora antirrhini              |    0|    0|    0|    0|    1|    0|
+|Cercospora apii                    |    0|    0|    0|    1|    0|    0|
+|Cercospora armoraciae              |    0|    0|    0|    0|    1|    0|
+|Cercospora beticola                |    1|    0|    0|    0|    0|    0|
+|Cercospora bolleana                |    0|    0|    1|    0|    2|    2|
+|Cercospora brachiata               |    0|    0|    0|    1|    4|    1|
+|Cercospora canescens               |    0|    0|    0|    1|    0|    0|
+|Cercospora capitati                |    0|    0|    0|    0|    1|    0|
+|Cercospora capparidis              |    0|    0|    0|    1|    0|    0|
+|Cercospora centaureae              |    0|    0|    0|    1|    0|    0|
+|Cercospora chrysanthemi            |    0|    0|    0|    0|    3|    0|
+|Cercospora coleroides              |    0|    0|    0|    0|    1|    0|
+|Cercospora coriandri               |    0|    0|    0|    0|    1|    0|
+|Cercospora duddiae                 |    0|    0|    0|    1|    0|    0|
+|Cercospora epipactidis             |    0|    0|    0|    0|    1|    0|
+|Cercospora erythrinae              |    0|    0|    0|    0|    1|    0|
+|Cercospora flagellaris             |    0|    0|    0|    0|    1|    0|
+|Cercospora forsteriana             |    0|    0|    0|    0|    1|    0|
+|Cercospora gerberae                |    0|    0|    0|    0|    2|    0|
+|Cercospora grandissima             |    0|    0|    0|    1|    0|    0|
+|Cercospora insulana                |    0|    0|    0|    7|   14|   16|
+|Cercospora kaki                    |    0|    0|    0|    2|    3|    4|
+|Cercospora kikuchii                |    0|    0|    0|    0|    1|    0|
+|Cercospora lippiae                 |    0|    0|    0|    1|    0|    0|
+|Cercospora nasturtii               |    0|    0|    0|    0|    1|    0|
+|Cercospora nepetae                 |    0|    0|    0|    1|    0|    0|
+|Cercospora nicotianae              |    0|    0|    0|    0|    3|    0|
+|Cercospora penzigii                |    0|    0|    0|    0|    5|    8|
+|Cercospora physalicola             |    0|    0|    0|    1|    0|    0|
+|Cercospora polygonati-maximowiczii |    0|    0|    0|    0|    0|    4|
+|Cercospora ricinella               |    0|    0|    0|    1|    0|    0|
+|Cercospora sapindi                 |    0|    0|    0|    0|    5|    1|
+|Cercospora serpentariae            |    0|    0|    0|    0|    0|    1|
+|Cercospora sorghi                  |    0|    0|    1|    0|    0|    0|
+|Cercospora stachytarphetae         |    0|    0|    0|    0|    2|    0|
+|Cercospora stevensonii             |    0|    0|    0|    0|    0|    3|
+|Cercospora violae                  |    0|    0|    1|    0|    1|    0|
+|Cercosporella liliicola            |    0|    0|    0|    0|    2|    0|
+|Cercosporella mori                 |    0|    0|    0|    1|    0|    0|
+|Cerebella panici                   |    0|    1|    0|    0|    0|    0|
+|Chaetothyrina tenuissima           |    0|    0|    0|    0|   15|   31|
+|Chuppomyces handelii               |    0|    0|    3|    7|    0|    0|
+|Cladosporium allii                 |    0|    0|    0|    1|    3|    0|
+|Cladosporium citri                 |    7|   19|    0|    0|    0|    0|
+|Cladosporium cladosporioides       |    0|    0|    0|    6|    1|    0|
+|Cladosporium epiphyllum            |    0|    0|    0|    1|    0|    0|
+|Cladosporium herbarum              |    0|    2|    0|    0|    0|    0|
+|Cladosporium iridis                |    0|    0|    0|    5|    0|    0|
+|Cladosporium nervale               |    0|    0|    0|    0|    1|    0|
+|Cladosporium orchidearum           |    0|    0|    0|    2|    0|    0|
+|Cladosporium oryzae                |    0|    0|    0|    3|    0|    0|
+|Cladosporium variabile             |    0|    0|    0|    1|    0|    0|
+|Clarohilum henningsii              |    0|    0|    0|    1|    0|    0|
+|Cochliobolus geniculatus           |    0|    0|    0|    3|    0|    0|
+|Coleroa rhododendri                |    0|    0|    0|    2|    0|    0|
+|Coleroa rhynchosiae                |    0|    0|    0|    0|    1|    0|
+|Coleroa senniana                   |    0|    0|    0|    0|    6|    4|
+|Coniosporium agaves                |    0|    0|    0|    1|    0|    0|
+|Coniosporium chusqueae             |    0|    0|    0|    1|    0|    0|
+|Coniosporium shiraianum            |    1|    0|    1|    0|    0|    0|
+|Coniothyrina agaves                |    0|    0|    0|    1|    1|    0|
+|Coniothyrium atriplicis            |    0|    0|    0|    0|    0|    1|
+|Coniothyrium aucubae               |    0|    0|    0|    2|    0|    0|
+|Coniothyrium bougainvilleae        |    0|    0|    0|    0|    0|    1|
+|Coniothyrium concentricum          |    0|    0|    0|    1|    0|    0|
+|Coniothyrium cytisellum            |    0|    0|    0|    8|    4|    0|
+|Coniothyrium dracaenae             |    0|    0|    0|    0|    1|    1|
+|Coniothyrium eurotioides           |    0|    0|    0|    0|    1|    0|
+|Coniothyrium genistae              |    0|    0|    0|    0|    2|    0|
+|Coniothyrium globisporum           |    0|    0|    0|    3|    0|    0|
+|Coniothyrium insitivum             |    0|    0|    0|    1|    0|    0|
+|Coniothyrium leguminum             |    0|    0|    0|    0|    1|    0|
+|Coniothyrium olivaceum             |    0|    0|    0|    4|    0|    0|
+|Coniothyrium socium                |    0|    0|    0|    1|    0|    0|
+|Coniothyrium stanhopeae            |    0|    0|    0|    1|    0|    0|
+|Coniothyrium trabutii              |    0|    0|    0|    0|    1|    0|
+|Coremium borzianum                 |    0|    1|    0|    0|    0|    0|
+|Corticium centrifugum              |    0|    0|    0|    1|    0|    0|
+|Corynespora cassiicola             |    0|    0|    0|    4|    2|    0|
+|Corynespora torulosa               |    0|    0|    1|    4|    2|    0|
+|Corynetes analis                   |    0|    0|    1|    0|    0|    0|
+|Curvularia andropogonis            |    0|    0|    0|    0|    1|    0|
+|Curvularia inaequalis              |    0|    0|    0|    0|    1|    0|
+|Curvularia lunata                  |    0|    0|    2|    9|    6|    1|
+|Curvularia ravenelii               |    0|    1|    0|    0|    1|    0|
+|Curvularia trifolii                |    0|    0|    0|    1|    2|    0|
+|Davidiella ornithogali             |    0|    0|    0|    1|    6|    0|
+|Davidiella rosigena                |    1|    0|    0|    2|    0|    0|
+|Delphinella strobiligena           |    0|    0|    0|    0|    0|    4|
+|Dendryphion cladosporioides        |    0|    0|    0|    1|    0|    0|
+|Dendryphion toruloides             |    0|    0|    0|    1|    0|    0|
+|Dichotomophthora indica            |    0|    0|    0|    0|    1|    0|
+|Dictyoploca japonica               |    0|    0|    0|    0|    0|    2|
+|Didymella fabae                    |    0|    0|    0|    1|    2|    0|
+|Didymella lycopersici              |    0|    0|    0|    0|    2|    0|
+|Didymella pisi                     |    0|    0|    3|   15|    0|    0|
+|Didymella pomorum                  |    0|    0|    0|    2|    0|    0|
+|Diplodia antiqua                   |    0|    0|    0|    0|    2|    0|
+|Diplodia castaneae                 |    0|    0|    0|    1|    0|    0|
+|Diplodia cococarpa                 |    0|    3|    0|   14|    2|    0|
+|Diplodia diospyri                  |    0|    1|    0|    0|    0|    0|
+|Diplodia durionis                  |    1|    0|    0|    0|    0|    0|
+|Diplodia epicocos                  |    0|    0|    1|    6|    8|    0|
+|Diplodia henriquesiana             |    0|    0|    0|    1|    1|    0|
+|Diplodia inocarpi                  |    0|    1|    0|    0|    1|    0|
+|Diplodia magnoliae                 |    0|    0|    0|    1|    0|    0|
+|Diplodia mori                      |    0|    1|    0|    0|    0|    0|
+|Diplodia opuntiae                  |    0|    1|    0|    0|    0|    0|
+|Diplodia oryzae                    |    0|    0|    0|    2|    5|    5|
+|Diplodia salicina                  |    0|    0|    0|    1|    0|    0|
+|Doassansia sagittariae             |    0|    0|    0|    1|    0|    0|
+|Dothidella depazeoides             |    0|    0|    0|    0|    2|    0|
+|Dothiora oleae                     |    0|    0|    1|    5|   16|   24|
+|Dothiora taxicola                  |    0|    0|    0|    1|    1|    0|
+|Dothiorella barringtoniae          |    0|    0|    0|    0|    4|    0|
+|Dothiorella pericarpica            |    0|    0|    0|    0|    2|    0|
+|Eballistra oryzae                  |    0|    0|    1|    9|    0|    0|
+|Echidnodes bromeliacearum          |    0|    0|    0|    1|    0|    0|
+|Elsinoe ampelina                   |    0|    0|    0|    0|    2|    0|
+|Elsinoe australis                  |    0|    0|    9|   88|   98|   12|
+|Elsinoe batatas                    |    0|    0|    0|    0|    1|    0|
+|Elsinoe fawcettii                  |    0|    4|    3|   12|   11|    7|
+|Elsinoe mangiferae                 |    0|    0|    0|   10|   99|    0|
+|Elsinoe perseae                    |    0|    0|    0|    2|    0|    0|
+|Elsinoe phaseoli                   |    0|    0|    2|   10|    5|    0|
+|Elsinoe punicae                    |    0|    0|    2|   10|   14|   15|
+|Elsinoe pyri                       |    0|    0|    0|    0|    4|    0|
+|Elsinoe rosarum                    |    0|    0|    0|    1|    3|    0|
+|Elsinoe spondiadis                 |    0|    0|    0|    2|    2|    0|
+|Elsinoe zorniae                    |    0|    0|    0|    1|    0|    0|
+|Entyloma dahliae                   |    0|    0|    0|    1|    0|    0|
+|Epicoccum andropogonis             |    0|    0|    0|   12|    0|    0|
+|Epicoccum draconis                 |    0|    0|    0|    0|    3|    0|
+|Epicoccum sorghinum                |    0|    0|    1|    1|    0|    0|
+|Exobasidium japonicum              |    1|    0|    0|    0|    0|    0|
+|Exobasidium rhododendri            |    2|    0|    0|    0|    0|    0|
+|Exobasidium vaccinii               |    4|    3|    0|    4|    0|    0|
+|Exserohilum turcicum               |    0|    0|    1|    0|    0|    0|
+|Fusicladium oleaginum              |    0|    0|    0|    1|    2|    0|
+|Fusicladium pyracanthae            |    0|    0|    1|    6|    3|   15|
+|Fusicoccum phomiformis             |    0|    0|    0|    0|    1|    0|
+|Fusoidiella depressa               |    0|    0|    1|    1|    0|    0|
+|Ganoderma applanatum               |    0|    0|    0|    0|    1|    0|
+|Graphiola borassi                  |    0|    0|    0|    0|    8|    1|
+|Graphiola cocoina                  |    0|    0|    0|    0|    1|    0|
+|Graphiola phoenicis                |    2|    0|    0|    0|    0|    0|
+|Griggsia cyathea                   |    0|    0|    0|    0|    1|    0|
+|Guignardia galactina               |    0|    0|    0|    0|    1|    0|
+|Helminthosporium carposaprum       |    0|    0|    0|    1|    0|    0|
+|Helminthosporium nodulosum         |    0|    0|    0|    1|    0|    0|
+|Helminthosporium solani            |    1|    2|    0|    0|    0|    0|
+|Hendersonia sarmentorum            |    0|    0|    1|    0|    0|    0|
+|Hendersonia striiformis            |    0|    0|    0|    1|    0|    0|
+|Herpothallon rubrocinctum          |    0|    0|    0|    1|    0|    0|
+|Heterophoma poolensis              |    0|    0|    0|    1|    0|    0|
+|Heterosporium avenae               |    0|    0|    0|    0|    4|    1|
+|Heterosporium ornithogali          |    0|    0|    1|    5|    1|    0|
+|Hobsonia mirabilis                 |    0|    0|    0|    0|    1|    0|
+|Jamesdicksonia brizae              |    0|    0|    0|    1|    0|    0|
+|Jamesdicksonia dactylidis          |    0|    0|    0|    1|    0|    0|
+|Juncaceicola typharum              |    0|    0|    0|    1|    0|    0|
+|Kabatiella berberidis              |    1|    0|    0|    0|    0|    0|
+|Karstenula philadelphi             |    0|    0|    0|    0|    1|    0|
+|Kellermania anomala                |    0|    0|    0|    0|    0|    1|
+|Kellermania macrospora             |    0|    0|    0|    9|    0|    0|
+|Lasiodiplodia paraphysaria         |    0|    0|    0|    1|    0|    0|
+|Lasiodiplodia theobromae           |    9|   13|    6|   17|    0|    0|
+|Lembosia agaves                    |    0|    0|    0|    1|    0|    0|
+|Lembosia rolfsii                   |    0|    0|    0|    1|    0|    0|
+|Lembosia warszewicziae             |    0|    0|    0|    0|    1|    0|
+|Leptosphaeria avenaria             |    0|    0|    0|    1|    0|    0|
+|Leptosphaeria coffeigena           |    0|    0|    0|    1|    0|    0|
+|Leptosphaeria culmifraga           |    0|    0|    0|    0|    1|    0|
+|Leptosphaeria eustomoides          |    0|    0|    0|    4|    9|    0|
+|Leptosphaeria heterospora          |    0|    0|    0|    2|    0|    0|
+|Leptosphaeria iwamotoi             |    0|    0|    0|    0|    1|    0|
+|Leptosphaeria maculans             |    0|    0|    0|    2|    0|    0|
+|Leptosphaeria oryzina              |    0|    0|    0|    3|   17|    3|
+|Leptosphaeria vagabunda            |    0|    0|    0|    1|    0|    0|
+|Leptosphaerulina australis         |    0|    0|    0|    0|    1|    0|
+|Leptothyrium gentianicola          |    0|    0|    0|    1|    0|    0|
+|Macrophoma anthurii                |    0|    0|    0|    0|    1|    0|
+|Macrophoma cocos                   |    0|    0|    0|   10|    3|    0|
+|Macrophoma draconis                |    0|    0|    0|    1|    1|    0|
+|Macrophoma epidendri               |    0|    0|    0|    1|    0|    0|
+|Macrophoma fraxini                 |    0|    0|    0|    1|    0|    0|
+|Macrophoma oleandrina              |    0|    0|    0|    0|    1|    0|
+|Macrophoma opuntiicola             |    0|    0|    0|    2|    0|    0|
+|Macrophoma viticola                |    0|    0|    0|    1|    0|    0|
+|Macrophomina phaseolina            |    0|    1|    1|   14|    0|    0|
+|Maublancia raripoda                |    0|    0|    0|    1|    0|    0|
+|Melanomma glumarum                 |    0|    0|    0|    0|    2|    0|
+|Melanomma pulvis-pyrius            |    0|    0|    0|    0|    1|    0|
+|Meliolina haplochaeta              |    0|    0|    0|    0|    1|    0|
+|Metasphaeria hawaiiensis           |    0|    0|    0|    0|    1|    0|
+|Metasphaeria hibiscincola          |    0|    0|    0|    1|    0|    0|
+|Microdiplodia conigena             |    0|    0|    0|    1|    0|    0|
+|Microdiplodia siliquastri          |    0|    0|    0|    0|    1|    0|
+|Microdiplodia tanaceti             |    0|    0|    0|    1|    0|    0|
+|Micropeltella orchidearum          |    0|    0|    0|    0|    1|    0|
+|Micropeltis bakeri                 |    0|    0|    0|    6|    2|    0|
+|Microsphaeropsis glumarum          |    0|    0|    1|    1|    0|    0|
+|Microsphaeropsis hellebori         |    0|    0|    1|    9|    0|    0|
+|Microstroma tonellianum            |    0|    0|    0|    1|    0|    0|
+|Microthyrium microscopicum         |    0|    0|    0|    1|    0|    0|
+|Miyabella aecidioides              |    0|    0|    0|    0|    1|    0|
+|Montagnina examinans               |    0|    0|    1|    0|    0|    0|
+|Montagnula phragmospora            |    0|    0|    0|    1|    0|    0|
+|Montagnula thuemeniana             |    0|    0|    0|    0|    1|    0|
+|Muyocopron corrientinum            |    0|    0|    0|    0|    2|    0|
+|Muyocopron orchidearum             |    0|    0|    0|    1|    0|    0|
+|Muyocopron pereirae                |    0|    0|    0|    0|    1|    0|
+|Mycena citricolor                  |    0|    0|    2|    9|    0|    0|
+|Mycosphaerella acicola             |    0|    0|    0|    0|    1|    0|
+|Mycosphaerella alyxiae             |    0|    0|    0|    0|    2|    4|
+|Mycosphaerella basicola            |    0|    0|    0|    0|    2|    0|
+|Mycosphaerella brassicola          |    0|    0|    0|    1|    0|    0|
+|Mycosphaerella buxicola            |    0|    0|    0|    0|    2|    0|
+|Mycosphaerella caryophylli         |    0|    0|    1|    0|    0|    0|
+|Mycosphaerella citrullina          |    0|    0|    0|    2|    0|    0|
+|Mycosphaerella coffeicola          |    0|    0|    1|    8|    1|    1|
+|Mycosphaerella dianthi             |    0|    2|    0|    2|    0|    0|
+|Mycosphaerella euryae              |    0|    0|    0|    1|    0|    0|
+|Mycosphaerella filicum             |    0|    0|    0|    1|    0|    0|
+|Mycosphaerella fraxinicola         |    0|    0|    0|    0|    1|    0|
+|Mycosphaerella gardeniae           |    0|    0|    0|    0|    1|    0|
+|Mycosphaerella gibsonii            |    0|    0|    1|    1|    0|    1|
+|Mycosphaerella gossypina           |    0|    0|    0|    3|    0|    0|
+|Mycosphaerella hondae              |    0|    0|    0|    3|    0|    0|
+|Mycosphaerella metrosideri         |    0|    0|    0|    0|    2|    0|
+|Mycosphaerella musicola            |    0|    0|   15|   37|    0|    0|
+|Mycosphaerella oryzae              |    0|    0|    0|    2|    0|    0|
+|Mycosphaerella palmae              |    0|    0|    0|    1|    4|    0|
+|Mycosphaerella patouillardii       |    0|    0|    0|    0|    4|    0|
+|Mycosphaerella philodendri         |    0|    0|    0|    0|    2|    0|
+|Mycosphaerella pomi                |    1|    0|    1|    4|    0|    0|
+|Mycosphaerella proteae             |    0|    0|    0|    1|    5|    2|
+|Mycosphaerella rhododendri         |    0|    0|    1|    4|    1|    0|
+|Mycosphaerella rubi                |    0|    0|    0|    1|    0|    0|
+|Mycosphaerella serrulatae          |    0|    0|    0|    1|    0|    0|
+|Mycosphaerella stemmatea           |    0|    0|    0|    1|    1|    0|
+|Mycosphaerella tassiana            |    1|    0|    0|   19|   42|   60|
+|Mycosphaerella vaccinii            |    0|    0|    0|    1|    0|    0|
+|Mycosphaerella washingtoniae       |    0|    0|    0|    0|    1|    0|
+|Myriangium duriaei                 |    0|    0|    0|    2|    0|    0|
+|Mytilinidion decipiens             |    0|    0|    0|    1|    0|    0|
+|Neofusicoccum ribis                |    0|    0|    1|    5|    0|    0|
+|Neosetophoma samarorum             |    0|    0|    0|    0|    1|    0|
+|Nothopassalora personata           |    0|    0|    0|    1|    0|    0|
+|Paraconiothyrium fuckelii          |    2|    0|    0|    0|    0|    0|
+|Paraphaeosphaeria michotii         |    0|    0|    0|    1|    0|    0|
+|Parastagonospora avenae            |    0|    0|    0|    1|    0|    0|
+|Parastagonospora nodorum           |    0|    0|    0|    4|    0|    0|
+|Parodiella congregata              |    0|    0|    0|    1|    0|    0|
+|Passalora bataticola               |    0|    0|    0|    1|    1|    0|
+|Passalora bocconiae                |    0|    0|    0|    1|    0|    0|
+|Passalora cajani                   |    0|    0|    0|    0|    1|    0|
+|Passalora cassiae                  |    0|    0|    0|    0|    1|    0|
+|Passalora crotonis                 |    0|    0|    0|    1|    0|    0|
+|Passalora manihotis                |    0|    0|    0|    1|    7|    0|
+|Passalora vaginae                  |    5|    0|    0|    1|    0|    0|
+|Penicillium digitatum              |    5|    1|    0|    0|    0|    0|
+|Penicillium italicum               |    1|    0|    0|    0|    0|    0|
+|Peniophora rufa                    |    0|    0|    0|    1|    0|    0|
+|Periconia byssoides                |    0|    0|    0|    1|    0|    0|
+|Periconia hispidula                |    0|    0|    0|    0|    1|    0|
+|Peyronellaea obtusa                |    0|    0|    1|    8|    0|    0|
+|Phaeoseptoria oryzae               |    0|    0|    0|    0|    6|    5|
+|Phaeosphaerella oryzae             |    0|    0|    0|    0|    2|    0|
+|Phaeosphaeria eustoma              |    0|    0|    0|    0|    2|    0|
+|Phaeosphaeria oryzae               |    0|    0|    0|    4|    3|    0|
+|Phaeosphaeria spartinae            |    0|    0|    0|    0|    1|    0|
+|Phaeosphaeriopsis glaucopunctata   |    0|    0|    1|    8|    0|    0|
+|Phaeosphaeriopsis obtusispora      |    0|    0|    0|    1|    3|    2|
+|Phloeospora aceris                 |    0|    0|    0|    0|    2|    0|
+|Phoma araucariae                   |    0|    0|    0|    2|    0|    0|
+|Phoma cajani                       |    0|    0|    0|    0|    1|    0|
+|Phoma camelliae                    |    0|    0|    0|    0|    0|    1|
+|Phoma engleri                      |    0|    0|    0|    1|    0|    0|
+|Phoma galacis                      |    0|    0|    0|    0|    1|    0|
+|Phoma herbarum                     |    0|    0|    0|    0|    1|    0|
+|Phoma hortensis                    |    0|    0|    0|    1|    0|    0|
+|Phoma insidiosa                    |    4|    0|    0|    3|    1|    0|
+|Phoma julibrissin                  |    0|    0|    0|    0|    1|    0|
+|Phoma limonis                      |    0|    0|    0|    1|    0|    0|
+|Phoma pomi                         |    0|    0|    0|    1|   10|    0|
+|Phoma prunicola                    |    0|    0|    0|    0|    1|    0|
+|Phoma psidii                       |    0|    0|    0|    3|    0|    0|
+|Phoma sabdariffae                  |    0|    0|    0|    1|    0|    0|
+|Phoma samararum                    |    2|    0|    0|    1|    1|    0|
+|Phoma santonensis                  |    0|    0|    0|    0|    1|    0|
+|Phoma tuberosa                     |    0|    0|    0|    0|    1|    0|
+|Phoma weigeliae                    |    0|    0|    0|    1|    0|    0|
+|Phomatodes nebulosa                |    0|    0|    0|    2|    0|    0|
+|Phyllosticta anacardiacearum       |    0|    0|    0|    1|    3|    6|
+|Phyllosticta annonarum             |    0|    0|    0|    0|    0|    2|
+|Phyllosticta annonicola            |    0|    0|    0|    0|    3|    9|
+|Phyllosticta arecae                |    0|    0|    0|    0|    1|    0|
+|Phyllosticta astragali             |    0|    0|    0|    0|    1|    0|
+|Phyllosticta aucubicola            |    0|    0|    0|    2|    0|    0|
+|Phyllosticta auerswaldii           |    0|    0|    0|    0|    0|    1|
+|Phyllosticta aurantiicola          |    0|    0|    0|    0|    1|    0|
+|Phyllosticta aurea                 |    0|    0|    0|    0|    0|    1|
+|Phyllosticta berolinensis          |    0|    0|    0|    0|    2|    0|
+|Phyllosticta bromeliae             |    0|    0|    0|    0|    2|    0|
+|Phyllosticta bromeliicola          |    0|    0|    0|    0|    1|    0|
+|Phyllosticta buxina                |    0|    0|    0|    0|    1|    0|
+|Phyllosticta cajani                |    0|    0|    0|    1|    0|    0|
+|Phyllosticta camelliae             |    0|    0|    0|    0|    2|    0|
+|Phyllosticta capitalensis          |    0|    0|    0|    9|   29|   14|
+|Phyllosticta caryicola             |    0|    0|    0|    1|    0|    0|
+|Phyllosticta chrysanthemi          |    0|    0|    0|    1|    0|    0|
+|Phyllosticta citricarpa            |    0|    2|   19|  155|  306|   49|
+|Phyllosticta coccolobae            |    0|    0|    0|    1|    0|    0|
+|Phyllosticta coffeicida            |    0|    0|    0|    0|    1|    0|
+|Phyllosticta concava               |    0|    0|    0|    0|    0|    2|
+|Phyllosticta cordylines            |    0|    0|    0|    0|    0|    2|
+|Phyllosticta cruenta               |    0|    0|    0|    0|    2|    0|
+|Phyllosticta cymbidii              |    0|    0|    0|    0|    1|    0|
+|Phyllosticta dearnessii            |    0|    0|    0|    0|    1|    0|
+|Phyllosticta decidua               |    0|    0|    0|    0|    1|    0|
+|Phyllosticta epipactidis           |    0|    0|    0|    0|    2|    0|
+|Phyllosticta eriobotryae           |    0|    0|    0|    0|    2|    0|
+|Phyllosticta erythroxyli           |    0|    0|    0|    0|    1|    1|
+|Phyllosticta extensa               |    0|    0|    0|    1|    0|    0|
+|Phyllosticta gaultheriae           |    0|    0|    0|    2|    0|    0|
+|Phyllosticta hederae               |    1|    0|    0|    0|    1|    0|
+|Phyllosticta hedericola            |    0|    0|    0|    1|    4|    0|
+|Phyllosticta hibiscina             |    0|    0|    0|    0|    1|    0|
+|Phyllosticta ilicis                |    0|    0|    0|    0|    1|    0|
+|Phyllosticta laeliae               |    0|    0|    1|    4|    0|    0|
+|Phyllosticta maculicola            |    0|    0|    0|    0|    1|    0|
+|Phyllosticta magnoliae             |    1|    0|    0|    0|    0|    0|
+|Phyllosticta mahoniicola           |    1|    0|    0|    0|    0|    0|
+|Phyllosticta micrococcoides        |    0|    0|    0|    1|    0|    0|
+|Phyllosticta miurae                |    0|    0|    0|    0|    0|    6|
+|Phyllosticta mortonii              |    0|    0|    1|    4|    1|    0|
+|Phyllosticta moscosoi              |    0|    0|    0|    0|    1|    0|
+|Phyllosticta musarum               |    0|    0|    0|   13|   27|    3|
+|Phyllosticta nigromaculans         |    0|    0|    1|    0|    0|    0|
+|Phyllosticta oryzae                |    0|    0|    0|    0|    3|    4|
+|Phyllosticta oryzina               |    0|    0|    0|    0|    4|   13|
+|Phyllosticta paleicola             |    0|    0|    0|    1|    0|    0|
+|Phyllosticta passiflorae           |    0|    0|    0|    1|    0|    0|
+|Phyllosticta phaseolina            |    0|    0|    0|    1|    1|    0|
+|Phyllosticta philoprina            |    0|    0|    0|    1|    1|    0|
+|Phyllosticta pleurothallidis       |    0|    0|    0|    0|    1|    0|
+|Phyllosticta primulicola           |    0|    0|    0|    0|    1|    0|
+|Phyllosticta rhapidis              |    0|    0|    0|    0|    0|    2|
+|Phyllosticta ruscicola             |    0|    0|    1|    6|    7|    0|
+|Phyllosticta saccardoi             |    0|    0|    0|    0|    2|    0|
+|Phyllosticta sinuosa               |    0|    0|    0|    0|    1|    0|
+|Phyllosticta stanhopeae            |    0|    0|    0|    0|    1|    0|
+|Phyllosticta superficialis         |    0|    0|    0|    0|    1|    0|
+|Phyllosticta violae                |    0|    0|    0|    0|    1|    0|
+|Phyllosticta visci                 |    0|    0|    0|    0|    1|    0|
+|Phyllostictina cordylines          |    0|    0|    0|    0|    2|    0|
+|Phyllostictina hysterella          |    0|    0|    0|    0|    2|    0|
+|Phyllostictina ilicicola           |    0|    0|    0|    0|    2|    0|
+|Phyllostictina vaccinii            |    0|    0|    0|    0|    1|    0|
+|Physoderma schroeteri              |    0|    0|    0|    1|    0|    0|
+|Planistromella cattleyae           |    0|    0|    0|    8|   46|   25|
+|Pleiochaeta setosa                 |    0|    0|    0|    0|    0|    1|
+|Pleospora bjoerlingii              |    1|    0|    0|    0|    0|    0|
+|Pleospora gigantea                 |    0|    0|    0|    1|    0|    0|
+|Pleospora herbarum                 |    0|    0|    1|    2|    0|    0|
+|Pleospora microspora               |    0|    0|    0|    0|    1|    0|
+|Pleospora orchidearum              |    0|    0|    0|    0|    1|    0|
+|Pluripassalora bougainvilleae      |    0|    0|    0|    0|    4|    0|
+|Polythrincium trifolii             |    1|    1|    0|    2|    0|    0|
+|Praetumpfia obducens               |    0|    0|    0|    0|    1|    0|
+|Pseudocercospora angolensis        |    0|    0|    0|    2|    0|    0|
+|Pseudocercospora angraeci          |    0|    0|    0|   10|   20|    0|
+|Pseudocercospora bixae             |    0|    0|    0|    0|    1|    1|
+|Pseudocercospora cladosporioides   |    0|    0|    0|    0|    2|    0|
+|Pseudocercospora cotini            |    0|    0|    0|    1|    0|    0|
+|Pseudocercospora cupheae           |    0|    0|    0|    0|    1|    0|
+|Pseudocercospora cypripedii        |    0|    0|    0|    2|    1|    0|
+|Pseudocercospora fraxinites        |    0|    0|    0|    4|    0|    0|
+|Pseudocercospora griseola          |    0|    0|    0|    4|    0|    0|
+|Pseudocercospora guianensis        |    0|    0|    0|    0|    1|    0|
+|Pseudocercospora kalmiae           |    0|    0|    0|    3|    3|    0|
+|Pseudocercospora lythracearum      |    0|    0|    2|    3|    0|    0|
+|Pseudocercospora myrticola         |    0|    0|    0|    1|    1|    0|
+|Pseudocercospora neriella          |    0|    0|    1|    3|    0|    0|
+|Pseudocercospora odontoglossi      |    0|    0|    0|    2|    4|    0|
+|Pseudocercospora pancratii         |    0|    0|    0|    1|    1|    0|
+|Pseudocercospora phyllitidis       |    0|    0|    0|    0|    1|    1|
+|Pseudocercospora piperis           |    0|    0|    0|    0|    2|    0|
+|Pseudocercospora protearum         |    0|    0|    0|    1|    0|    0|
+|Pseudocercospora psidii            |    0|    0|    0|    1|    1|    0|
+|Pseudocercospora puderi            |    0|    0|    0|    1|    0|    0|
+|Pseudocercospora punicae           |    0|    0|    0|    2|   10|   12|
+|Pseudocercospora purpurea          |    0|    0|    0|    5|    2|    0|
+|Pseudocercospora salicina          |    0|    0|    0|    0|    3|    0|
+|Pseudocercospora subsessilis       |    0|    0|    0|    0|    1|    0|
+|Pseudocercospora vitis             |    0|    0|    0|    2|    0|    0|
+|Pseudoepicoccum cocos              |    0|    0|    0|    2|    0|    0|
+|Pseudoseptoria donacis             |    0|    0|    0|    2|    1|    0|
+|Pyrenobotrys compactus             |    0|    0|    0|    1|    0|    0|
+|Pyrenochaeta berberidis            |    0|    0|    0|    1|    0|    0|
+|Pyrenochaeta oryzae                |    0|    0|    0|    2|    9|    8|
+|Pyrenochaeta phlogis               |    0|    0|    1|    0|    0|    0|
+|Pyrenochaeta spinicola             |    0|    0|    0|    0|    1|    0|
+|Pyrenophora graminea               |    0|    0|    0|    1|    0|    0|
+|Pyrenophora pellita                |    0|    0|    0|    0|    1|    0|
+|Pyrenophora tritici-repentis       |    0|    0|    0|    1|    0|    0|
+|Ramularia alborosella              |    0|    0|    0|    1|    0|    0|
+|Ramularia endophylla               |    0|    0|    0|    1|    1|    0|
+|Ramularia grevilleana              |    1|    2|    1|    9|    6|    0|
+|Ramularia menthicola               |    0|    0|    0|    0|    1|    0|
+|Ramularia primulae                 |    0|    0|    0|    1|    0|    0|
+|Ramularia vallisumbrosae           |    0|    0|    0|    1|    0|    0|
+|Rhabdospora sphaeroides            |    1|    0|    0|    0|    0|    0|
+|Rhabdospora ulmi                   |    0|    0|    0|    0|    1|    0|
+|Rhizoctonia solani                 |    3|    6|    0|    1|    0|    0|
+|Rhytidhysteron rufulum             |    0|    0|    0|    1|    0|    0|
+|Rosisphaerella rosicola            |    0|    0|    0|    2|    0|    0|
+|Ruptoseptoria unedonis             |    0|    0|    0|    1|    0|    0|
+|Schiffnerula leemingii             |    0|    0|    0|    0|    1|    0|
+|Schizophyllum commune              |    1|    0|    0|    2|    0|    0|
+|Schizophyllum radiatum             |    0|    0|    0|    2|    0|    0|
+|Schizothyrium jamaicense           |    0|    0|    0|    1|    0|    0|
+|Schizothyrium pomi                 |    0|    0|    4|    6|    0|    0|
+|Scirrhia lophodermioides           |    0|    0|    0|    1|    1|    0|
+|Scirrhia rimosa                    |    0|    0|    0|    1|    5|    1|
+|Sclerostagonospora opuntiae        |    1|    0|    0|    2|    0|    0|
+|Sclerostagonospora sabaleos        |    0|    0|    0|    1|    0|    0|
+|Sclerotium compactum               |    0|    1|    0|    0|    0|    0|
+|Scolecostigmina genipae            |    0|    0|    0|    0|    3|    0|
+|Scolecostigmina mangiferae         |    0|    0|    0|    2|    1|    0|
+|Scolecostigmina palmivora          |    0|    0|    0|    0|    2|    0|
+|Septocylindrium candidum           |    0|    0|    0|    1|    0|    0|
+|Septogloeum oxysporum              |    0|    0|    0|    0|    3|    0|
+|Septonema atrum                    |    0|    0|    0|    1|    0|    0|
+|Septonema intercalare              |    0|    0|    0|    3|    0|    0|
+|Septonema toruloideum              |    0|    0|    0|    1|    0|    0|
+|Septoria aciculosa                 |    0|    0|    0|    2|    0|    0|
+|Septoria alliorum                  |    0|    0|    0|    1|    1|    0|
+|Septoria aristolochiae             |    0|    0|    0|    1|    0|    0|
+|Septoria bidentis                  |    0|    0|    0|    0|    1|    0|
+|Septoria bonanseana                |    0|    0|    0|    0|    1|    0|
+|Septoria bromi                     |    0|    0|    0|    2|    0|    0|
+|Septoria carvi                     |    0|    0|    0|    1|    0|    0|
+|Septoria chrysanthemella           |    0|    0|    4|    8|    0|    0|
+|Septoria cirsiicola                |    0|    0|    0|    1|    1|    0|
+|Septoria citri                     |    0|    0|    1|   51|   39|   33|
+|Septoria cucurbitacearum           |    0|    0|    0|    1|    0|    0|
+|Septoria cyclaminis                |    0|    0|    0|    1|    0|    0|
+|Septoria dianthophila              |    0|    0|    0|    0|    0|    2|
+|Septoria ehrendorferi              |    0|    0|    0|    0|    0|    1|
+|Septoria eugeniifolii              |    0|    0|    0|    0|    1|    0|
+|Septoria exotica                   |    0|    0|    0|    1|    1|    0|
+|Septoria fraxinicola               |    0|    0|    0|    1|    0|    0|
+|Septoria fructigena                |    0|    0|    0|    0|    5|    2|
+|Septoria gentianae                 |    0|    0|    0|    0|    1|    0|
+|Septoria geranii                   |    0|    0|    0|    0|    0|    1|
+|Septoria gladioli                  |    0|    1|    0|    0|    0|    0|
+|Septoria helianthi                 |    0|    0|    0|    1|    0|    0|
+|Septoria hepaticae                 |    0|    0|    0|    0|    1|    0|
+|Septoria karakulinii               |    0|    0|    0|    0|    2|    0|
+|Septoria leucanthemi               |    0|    0|    1|    5|    4|    0|
+|Septoria limonum                   |    0|    0|    0|    1|    6|    0|
+|Septoria malvicola                 |    0|    0|    1|    0|    0|    0|
+|Septoria martiniana                |    0|    0|    0|    0|    1|    0|
+|Septoria minuta                    |    0|    0|    0|    0|    2|    0|
+|Septoria miyakei                   |    0|    0|    0|    0|    2|    0|
+|Septoria noli-tangere              |    0|    0|    0|    0|    0|    1|
+|Septoria oleandrina                |    2|    1|    0|    0|    0|    0|
+|Septoria oryzae                    |    0|    0|    0|    4|   26|   33|
+|Septoria phleina                   |    0|    0|    0|    1|    0|    0|
+|Septoria pini                      |    0|    0|    0|    2|    0|    0|
+|Septoria pistaciae                 |    0|    0|    0|    0|    3|    2|
+|Septoria posekensis                |    0|    0|    0|   24|    0|    0|
+|Septoria rhapidospora              |    0|    0|    0|    0|    1|    0|
+|Septoria sapotae                   |    0|    0|    0|    0|    1|    0|
+|Septoria selenophomoides           |    0|    0|    0|   20|   28|   13|
+|Septoria tosevi                    |    0|    0|    0|    1|    0|    0|
+|Septoria tritici                   |    0|    0|    0|    3|    0|    0|
+|Septoria uliginosa                 |    0|    0|    0|    0|    1|    0|
+|Septoria veronicae                 |    0|    0|    0|    1|    0|    0|
+|Septoriella junci                  |    0|    0|    0|    0|    0|    1|
+|Setophoma terrestris               |    0|    0|    0|    1|    0|    0|
+|Seuratia millardetii               |    0|    0|    0|    1|    0|    0|
+|sp                                 |  245|   16|    1|    3|    4|   94|
+|Sphaeropsis orchidearum            |    0|    0|    0|    1|    0|    0|
+|Sphaeropsis sapinea                |    0|    0|    0|    0|    1|    0|
+|Sphaerulina azaleae                |    0|    0|    4|   12|    1|    0|
+|Sphaerulina musiva                 |    0|    0|    0|    0|    2|    0|
+|Sphaerulina oryzina                |    0|    0|    1|    2|    0|    0|
+|Sporotrichum roseum                |    1|    0|    0|    0|    0|    0|
+|Stagonospora innumerosa            |    0|    0|    0|    0|    0|    1|
+|Stagonosporopsis cucurbitacearum   |    0|    0|    0|    1|    0|    0|
+|Stagonosporopsis ligulicola        |    0|    0|    0|    0|    1|    0|
+|Stemphylium botryosum              |    0|    0|    5|    9|    0|    0|
+|Stemphylium sarciniforme           |    0|    0|    0|    1|    0|    0|
+|Stemphylium vesicarium             |    0|    0|    0|    0|    1|    0|
+|Sterigmatocystis nigra             |    0|    1|    0|    0|    0|    0|
+|Stigmina carpophila                |    0|    0|    1|    9|    0|    0|
+|Stomatogene agaves                 |    0|    0|    0|    3|    3|    0|
+|Stomiopeltis citri                 |    0|    0|    0|    0|    1|    0|
+|Subplenodomus apiicola             |    0|    0|    0|    1|    0|    0|
+|Sydowia polyspora                  |    0|    0|    0|    1|    2|    2|
+|Synchytrium puerariae              |    2|    0|    0|    0|    0|    0|
+|Thanatephorus microsclerotium      |    0|    0|    0|    1|    0|    0|
+|Tilletia barclayana                |    0|    0|    0|    4|   27|   18|
+|Tilletia caries                    |    0|    0|    0|    1|    2|    0|
+|Tilletia contraversa               |    0|    0|    0|    1|    0|    0|
+|Tilletia indica                    |    0|    0|    0|    1|    0|    0|
+|Tilletia laevis                    |    2|    1|    0|    0|    0|    0|
+|Trametes flavida                   |    0|    0|    1|    0|    0|    0|
+|Trypethelium eluteriae             |    0|    0|    0|    1|    0|    0|
+|Typhula incarnata                  |    0|    0|    0|    0|    1|    0|
+|Venturia carpophila                |    1|    0|    0|    0|    0|    0|
+|Venturia cerasi                    |    0|    0|    0|    0|    1|    0|
+|Venturia inaequalis                |    0|    1|    1|    1|    0|    0|
+|Venturia oleaginea                 |    0|    0|    0|    0|    0|    1|
+|Westerdykella minutispora          |    0|    0|    0|    0|    1|    0|
